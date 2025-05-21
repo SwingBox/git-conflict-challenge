@@ -1,1 +1,1 @@
-# git-conflict-challenge
+# git-conflict-challenge "je modifie la première ligne en local pour créer un conflit"  
